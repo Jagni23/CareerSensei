@@ -1,0 +1,6 @@
+{
+  "name": "CareerSensei",
+  "description": "AI-Powered Career Intelligence, Resume Extraction, Gap Analysis, and Job Recommender",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
